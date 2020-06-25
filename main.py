@@ -47,3 +47,4 @@ if mulher:
 else:
     print("Você é um cabra")
     print(f"Mas tu é {sexo} mesmo?")
+print("fim do codigo")
